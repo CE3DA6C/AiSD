@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lab2\Source.cpp" />
+    <ClCompile Include="Lab2\BST_no_AVL.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lab2\Timer.h" />
